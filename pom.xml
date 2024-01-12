@@ -17,6 +17,7 @@
         <module>Adapter-Pattern</module>
         <module>Builder-Pattern</module>
         <module>Facade-Pattern</module>
+        <module>Bridge-Pattern</module>
     </modules>
 
     <properties>
