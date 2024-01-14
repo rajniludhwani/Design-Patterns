@@ -18,6 +18,7 @@
         <module>Builder-Pattern</module>
         <module>Facade-Pattern</module>
         <module>Bridge-Pattern</module>
+        <module>Prototype-Pattern</module>
     </modules>
 
     <properties>
