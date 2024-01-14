@@ -19,6 +19,7 @@
         <module>Facade-Pattern</module>
         <module>Bridge-Pattern</module>
         <module>Prototype-Pattern</module>
+        <module>Singleton-Pattern</module>
     </modules>
 
     <properties>
