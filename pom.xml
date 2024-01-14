@@ -20,6 +20,7 @@
         <module>Bridge-Pattern</module>
         <module>Prototype-Pattern</module>
         <module>Singleton-Pattern</module>
+        <module>Composite-Pattern</module>
     </modules>
 
     <properties>
