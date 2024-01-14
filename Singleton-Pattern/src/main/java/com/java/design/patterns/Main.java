@@ -22,5 +22,8 @@ public class Main {
         com.java.design.patterns.doubleLocking.DBConnection doubleLockingConObj =
                 com.java.design.patterns.doubleLocking.DBConnection.getInstance();
         System.out.println("-----------------");
+        com.java.design.patterns.volatileSolution.DBConnection volatileLockingConObj =
+                com.java.design.patterns.volatileSolution.DBConnection.getInstance();
+        System.out.println("-----------------");
     }
 }
