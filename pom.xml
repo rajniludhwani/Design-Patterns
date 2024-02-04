@@ -21,6 +21,7 @@
         <module>Prototype-Pattern</module>
         <module>Singleton-Pattern</module>
         <module>Composite-Pattern</module>
+        <module>Command-Pattern-Undo-Redo</module>
     </modules>
 
     <properties>
