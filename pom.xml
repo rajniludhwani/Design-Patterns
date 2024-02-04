@@ -22,6 +22,7 @@
         <module>Singleton-Pattern</module>
         <module>Composite-Pattern</module>
         <module>Command-Pattern-Undo-Redo</module>
+        <module>TemplatePattern</module>
     </modules>
 
     <properties>
