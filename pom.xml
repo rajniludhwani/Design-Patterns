@@ -23,6 +23,7 @@
         <module>Composite-Pattern</module>
         <module>Command-Pattern-Undo-Redo</module>
         <module>TemplatePattern</module>
+        <module>Iterator-Pattern</module>
     </modules>
 
     <properties>
