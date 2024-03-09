@@ -1,5 +1,6 @@
 package com.java.design.patterns.Adaptee;
 
 public interface WeightMachine {
-    public double getWeightInPound();
+
+  public double getWeightInPound();
 }

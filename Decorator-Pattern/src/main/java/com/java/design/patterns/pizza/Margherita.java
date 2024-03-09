@@ -1,8 +1,9 @@
 package com.java.design.patterns.pizza;
 
 public class Margherita extends BasePizza {
-    @Override
-    public int cost() {
-        return 200;
-    }
+
+  @Override
+  public int cost() {
+    return 200;
+  }
 }

@@ -1,14 +1,15 @@
 package com.java.design.patterns.pizza;
 
 public class ExtraCheese extends ToppingDecorator {
-    BasePizza basePizza;
 
-    public ExtraCheese(BasePizza basePizza) {
-        this.basePizza = basePizza;
-    }
+  BasePizza basePizza;
 
-    @Override
-    public int cost() {
-        return this.basePizza.cost() + 10;
-    }
+  public ExtraCheese(BasePizza basePizza) {
+    this.basePizza = basePizza;
+  }
+
+  @Override
+  public int cost() {
+    return this.basePizza.cost() + 10;
+  }
 }

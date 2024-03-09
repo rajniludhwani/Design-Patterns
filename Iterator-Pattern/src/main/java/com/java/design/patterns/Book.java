@@ -1,19 +1,20 @@
 package com.java.design.patterns;
 
 public class Book {
-    private int price;
-    private String bookName;
 
-    public Book(int price, String bookName) {
-        this.price = price;
-        this.bookName = bookName;
-    }
+  private int price;
+  private String bookName;
 
-    public int getPrice() {
-        return price;
-    }
+  public Book(int price, String bookName) {
+    this.price = price;
+    this.bookName = bookName;
+  }
 
-    public String getBookName() {
-        return bookName;
-    }
+  public int getPrice() {
+    return price;
+  }
+
+  public String getBookName() {
+    return bookName;
+  }
 }
